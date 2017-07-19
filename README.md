@@ -9,7 +9,10 @@
 
 ### Tarefas feitas
 
+Olhar "Projeto no github", pasta src.
 
-Olhar "Project no github".
+### To Do
 
-
+* Consultar: http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf
+* Continuar o exercício a partir de "Makin' Objects"  - cap. 8
+* Objetivo final: terminar o exemplo, seguindo os passos nos capítulos seguintes, até o capítulo 17. Entrega: 24/7.
