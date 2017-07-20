@@ -1,6 +1,5 @@
 
 public class Brr extends Money{
-	
 	public Brr (int amount) {
 		this.amount=amount;
 	}
